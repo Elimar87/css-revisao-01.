@@ -1,0 +1,56 @@
+#principal{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+background-color: #FFF;
+}
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+    background-color: #fff;
+}
+.origem{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #fff;
+    color: #280;
+}
+.resumo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+}
+.rodape{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 11px;
+    background-color: #cfb;
+    text-align: center;
+}
+
+#tb1{
+    border: 1px solid black ;
+    border-width: 1px;
+    width: 766px;
+    height: 36px;
+    background-color: #00000333;
+
+}
+a:link{
+    color: #0000ff;
+}
+a:visited{
+    color: #ddc71a;
+}
+a:active{
+    color: #ac0b44;
+}
+a:hover{
+    color: #ff0000;
+    font-weight: 900;
+}
